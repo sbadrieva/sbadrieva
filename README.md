@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sbadrieva
-- 👀 I’m interested in data science, computer vision, machine learning, and learning new technologies and frameworks to create exciting projects.
-- 🌱 I’m currently learning machine learning techniques and skills that can be applied to computer vision problems.
-- 💞️ I’m looking to collaborate on computer vision, data, or machine learning projects.
+- 👀 I’m interested in software engineering, computer vision, machine learning, and learning new technologies/frameworks to create exciting projects.
+- 🌱 I am currently learning HTML,CSS, and Javascript to expand my front-end knowledge.
+- 💞️ I’m looking to collaborate on software developement, computer vision, data, or machine learning projects.
 - 📫 How to reach me: shokhina.badrieva@gmail.com linkedin: shokhina-badrieva
 
 <!---
